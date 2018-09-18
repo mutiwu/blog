@@ -217,7 +217,9 @@ font:
   #LinkLabel: Link
 
 social: true
-  email: mutiwu@mutiwu.com
+  email:
+    - email
+    - mutiwu@mutiwu.com
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
