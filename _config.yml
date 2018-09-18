@@ -226,9 +226,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  # GitHub: github
+  # Twitter: twitter
+  # Weibo: weibo
   email: mutiwu@mutiwu.com
 
 
