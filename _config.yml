@@ -217,9 +217,9 @@ font:
 #social:
   #LinkLabel: Link
 social:
-  微博: https://weibo.com/mutiwu/ || weibo
-  GitHub: https://github.com/mutiwu || github
-  邮箱: mailto:mutiwu@mutiwu.com || envelope
+  微博: https://weibo.com/mutiwu/
+  GitHub: https://github.com/mutiwu
+  邮箱: mailto:mutiwu@mutiwu.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -228,11 +228,13 @@ social:
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
   enable: true
-  icons_only: false
-  transition: false
+  # icons_only: false
+  # transition: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-
+  微博: weibo
+  GitHub: github
+  邮箱: envelope
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
