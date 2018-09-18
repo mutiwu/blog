@@ -216,7 +216,7 @@ font:
 #social:
   #LinkLabel: Link
 
-
+social: true
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -229,6 +229,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  email: mutiwu@mutiwu.com
 
 
 # Sidebar Avatar
